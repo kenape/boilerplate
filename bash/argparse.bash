@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Bash arrays are used in here, a nice tutorial for bash arrays: https://opensource.com/article/18/5/you-dont-know-bash-intro-bash-arrays
 
 function usage-for-afunction() {
   echo "Usage: ${1} [OPTIONS] positionalone postiionaltwo
